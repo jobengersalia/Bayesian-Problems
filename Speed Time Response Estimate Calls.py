@@ -4,7 +4,7 @@ Created on Thu May 22 16:01:54 2025
 
 @author: Joben Gersalia
 """
-#A company wants to estimate the average customer service response time. They guess it's around 2 minutes, but aren't sure. They collect 120 call logs and use Bayesian inference to update their estimate of the average time and how much it varies.
+#A company wants to estimate the average customer service response time. They guess it's around 2 minutes, but aren't sure. They collect 120 call logs and plan use Bayesian inference to update their estimate of the average time and how much it varies.
 
 import numpy as np
 import matplotlib.pyplot as plt
