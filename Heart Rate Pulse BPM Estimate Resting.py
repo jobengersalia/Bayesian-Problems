@@ -5,7 +5,7 @@ Created on Thu May 22 20:35:50 2025
 @author: Joben Gersalia
 """
 
-# A cardiologist wants to estimate the average resting heart rate (beats per minute) in a population.
+# A cardiologist wants to estimate the average resting heart rate (beats per minute) in a hospital in Pasay.
 # Prior knowledge suggests it’s about 72 bpm, but the actual value may differ. 
 # A new sample of 75 patients is gathered to update this belief using Bayesian inference.
 
