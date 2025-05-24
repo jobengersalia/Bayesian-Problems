@@ -4,7 +4,7 @@ Created on Thu May 22 10:21:21 2025
 
 @author: Joben Gersalia
 """
-#A transportation researcher wants to figure out how long workers in a big city usually spend commuting. Previous studies suggest it's about 30 minutes, but there’s still some uncertainty. To get a clearer picture, they surveyed 100 people and plan to use Bayesian inference to update their estimate based on this new data.
+#A transportation researcher wants to figure out how long workers in Manila City usually spend commuting. Previous studies suggest it's about 30 minutes, but there’s still some uncertainty. To get a clearer picture, they surveyed 100 people and plan to use Bayesian inference to update their estimate based on this new data.
 
 import numpy as np
 import matplotlib.pyplot as plt
